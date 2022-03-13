@@ -11,7 +11,7 @@ The input consists of an integer 2n, 1≤𝑛≤10000, denoting the number of ve
 #### Output
 The output file reports the number of chords in the maximum planar subset in the input circle of n chords, followed by a list of the two endpoints for each resulting chord in the maximum planar subset (sorted by the first endpoint in the increasing order).
 
-|  Sample Input  | Sample Output  |
+|  Sample Input  | Sample Output  |  
    12               3  
    0 4              0 4  
    1 9              5 7  
