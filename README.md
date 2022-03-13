@@ -13,14 +13,11 @@ The output file reports the number of chords in the maximum planar subset in the
 
 |  Sample Input  | Sample Output  |
 |:--------------:|:--------------:|
-|  12
-   0 4
-   1 9
-   2 6
+   12               3
+   0 4              0 4
+   1 9              5 7
+   2 6              8 11|
    3 10
    5 7
    8 11
-   0   |3
-        0 4
-        5 7
-        8 11|
+   0   
