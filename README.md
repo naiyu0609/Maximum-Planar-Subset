@@ -21,7 +21,7 @@ The output file reports the number of chords in the maximum planar subset in the
    8 11  
    0   
    
-| Sample Output  | 
+| Sample Output  |   
   3  
   0 4  
   5 7  
